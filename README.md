@@ -1,4 +1,4 @@
-# Python-async-Test
+# PYTHON-async-Test
 
 Example illustrating how async functions work in Python...
 
